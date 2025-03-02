@@ -8,7 +8,7 @@
 
 ## 🔥 Мои проекты:
 - 🚀 [**CI/CD для DefectDojo**](https://github.com/usd877/DevSecOps) – безопасный пайплайн для Open-Source веб-сервиса  
-- 🔎 [**Пентест веб-сервиса**](https://github.com/username/pentest-report) – тестирование методом чёрного ящика  
+- 🔎 [**Тестирование на проникновение (Чёрный ящик)**](https://github.com/username/pentest-report) – отчёт о тестировании веб-сервиса  
 - 🛠 [**Исследование защищённости системы**](https://github.com/username/security-research) – OSINT, FTP, поиск данных в GitHub  
 
 ## 🛠 Навыки и технологии:
@@ -23,3 +23,4 @@
 ## 📫 Связаться со мной:
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/evildmitry)  
 [![Email](https://img.shields.io/badge/-usd877@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:usd877@gmail.com)
+
