@@ -13,7 +13,7 @@
 
 ## 🛠 Навыки и технологии:
 - **Penetration Testing**: Kali Linux, Metasploit, Burp Suite, Nmap  
-- **DevSecOps**: GitLab CI/CD, DefectDojo, SAST (Semgrep, SonarQube), DAST (OWASP ZAP)  
+- **DevSecOps**: GitHub CI/CD, DefectDojo, SAST (Semgrep, SonarQube), DAST (OWASP ZAP)  
 - **OSINT**: Maltego, Shodan, GHunt, recon-ng  
 
 ## 📜 Сертификаты:
