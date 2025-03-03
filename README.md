@@ -15,10 +15,7 @@
 - **Penetration Testing**: Kali Linux, Metasploit, Burp Suite, Nmap  
 - **DevSecOps**: GitHub CI/CD, DefectDojo, SAST (Semgrep, SonarQube), DAST (OWASP ZAP)  
 - **OSINT**: Maltego, Shodan, GHunt, recon-ng  
-
-## 📜 Сертификаты:
-- 🏆 [OSCP (Offensive Security Certified Professional)](https://www.offensive-security.com)  
-- 🏆 [CEH (Certified Ethical Hacker)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)  
+ 
 
 ## 📫 Связаться со мной:
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/evildmitry)  
