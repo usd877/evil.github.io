@@ -50,7 +50,7 @@
 ### **DevSecOps**:
 
 #### 1. Автоматизация безопасности в CI/CD
-✅ Настройка GitLab CI/CD для автоматического тестирования безопасности  
+✅ Настройка GitHub CI/CD для автоматического тестирования безопасности  
 ✅ Интеграция SAST, DAST, Security Checks в пайплайн DevSecOps  
 ✅ Использование OWASP ZAP для динамического анализа безопасности (DAST)  
 ✅ Анализ кода на уязвимости с помощью DefectDojo, SAST-инструментов  
@@ -59,8 +59,8 @@
 ✅ CI/CD: GitLab CI/CD, YAML-конфигурации пайплайнов  
 ✅ SAST: SonarQube, Semgrep, Bandit  
 ✅ DAST: OWASP ZAP, Nikto  
-✅ Мониторинг и анализ: DefectDojo, GitLab Security Dashboard  
-✅ Контейнеризация: Docker (если использовал)  
+✅ Мониторинг и анализ: DefectDojo, GitHub Security Dashboard  
+✅ Контейнеризация: Docker  
 
 #### 3. Анализ уязвимостей в DevSecOps
 ✅ Поиск и анализ уязвимостей в коде на этапе CI/CD  
