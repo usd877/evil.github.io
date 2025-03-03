@@ -56,7 +56,7 @@
 ✅ Анализ кода на уязвимости с помощью DefectDojo, SAST-инструментов  
 
 #### 2. Инструменты и технологии
-✅ CI/CD: GitLab CI/CD, YAML-конфигурации пайплайнов  
+✅ CI/CD: GitHub CI/CD, YAML-конфигурации пайплайнов  
 ✅ SAST: SonarQube, Semgrep, Bandit  
 ✅ DAST: OWASP ZAP, Nikto  
 ✅ Мониторинг и анализ: DefectDojo, GitHub Security Dashboard  
