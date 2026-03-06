@@ -7,7 +7,7 @@
 ---
 
 ## ⚔️ Projects from Real Battlefield
-      [**RedOS-ADM**](https://github.com/usd877/RedOS-ADM) - *Развёрнуто и протестировано в реальных средах*
+- ⚔️ [**RedOS-ADM**](https://github.com/usd877/RedOS-ADM) - *Развёрнуто и протестировано в реальных средах*
 
 ## 🔥 Мои дипломные проекты:
 - 🚀 [**CI/CD для DefectDojo**](https://github.com/usd877/DevSecOps) – безопасный пайплайн для Open-Source веб-сервиса  
